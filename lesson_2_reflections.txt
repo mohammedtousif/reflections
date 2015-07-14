@@ -10,14 +10,23 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+    
+    answer:by specifying exactly what changes should be committed.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+    
+    answer:when you want to make some experiments on the code, switching to a new feature(context switch) and even when you want them in other languages etc., 
 
 How do the diagrams help you visualize the branch structure?
+
+    answer:diagrams help to visualize the branch structure by knowing what branch you are in and to find out which are the unrechable commits and also helps us to know which all branches should i be merging.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+    answer:mergings gets the code in two different branches into a single commit.and we represent it in the diagram the way we do is to know or have a clear idea of which two branches need to be merged.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+    answer:auto merging reduces the burden, while merging manually help us to make little changes if there are any to make.
